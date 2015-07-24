@@ -19,3 +19,10 @@ Finally, I wanted to look at the length of the trips and the time saved over tak
 In the first plot, I noticed, unsurprisingly, that biking tended to be faster than public transit, but also that all of the estimated times for the most common trips were below Divvy's 30-minute free period for rentals.
 
 In the next two plots, it became clear that many of the most popular trips are in fact round trips to the same or adjacent stations, so there actually turned out to be almost no correlation between the estimated transit times and the actual average trip times, perhaps also muddied by a mix of commuter and leisurely sightseeing traffic. We can see that many of the popular trips had an average length of less than the 30-minute cut-off (the red line on the plots).
+
+**Ideas for expansion**
+
+With more time, I might do some or all of the following:
+- split out data by time of day, weekday/weekend
+- weight # of trips from/to based on opening dates of stations
+- compare behavior of members vs. nonmembers
